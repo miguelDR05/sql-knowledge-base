@@ -36,3 +36,24 @@ The repository is organized by engine and category for easy navigation:
 └── 📁 universal-patterns/
     ├── recursive-ctes.sql   # Hierarchical data queries
     └── pivot-tables.sql     # Dynamic pivoting examples
+
+💡 Highlights
+Some interesting problems solved in this repo:
+
+Dynamic Pivoting: Handling datasets with unknown column numbers at runtime.
+
+Gaps and Islands: Identifying missing sequences in data series.
+
+Recursive Queries: Traversing tree-like structures (e.g., organizational charts or category trees).
+
+Performance Tuning: Queries to identify bottlenecks and deadlocks.
+
+⚠️ Disclaimer
+These scripts are intended for educational purposes and reference. While they are based on production scenarios, always review and test code before running it in a production environment.
+
+📫 Contact
+If you find a bug or have a suggestion to optimize a query, feel free to open an issue!
+
+Portfolio/Web: https://porfolio-migueldr05.netlify.app/
+
+Email: miguel05.dev@gmail.com
