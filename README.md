@@ -36,6 +36,7 @@ The repository is organized by engine and category for easy navigation:
 └── 📁 universal-patterns/
     ├── recursive-ctes.sql   # Hierarchical data queries
     └── pivot-tables.sql     # Dynamic pivoting examples
+```
 
 💡 Highlights
 Some interesting problems solved in this repo:
